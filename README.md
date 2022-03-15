@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # todo-machine
 Basic react app as result of Platzi course
 >>>>>>> d221aa6 (Initial commit)
+=======
+# todo-machine
+Basic react app as result of Platzi course
+>>>>>>> d221aa633ab13bb13db3db029b74a7971f3f9527
