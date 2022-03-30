@@ -1,3 +1,7 @@
+.Item-no--visible {
+  display: none;
+}
+
 .TodoItem {
     background-color: #FAFAFA;
     position: relative;
